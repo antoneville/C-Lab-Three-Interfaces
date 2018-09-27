@@ -1,0 +1,10 @@
+C:\projects\C-Lab-Three-Interfaces\bin\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.deps.json
+C:\projects\C-Lab-Three-Interfaces\bin\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.runtimeconfig.json
+C:\projects\C-Lab-Three-Interfaces\bin\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.runtimeconfig.dev.json
+C:\projects\C-Lab-Three-Interfaces\bin\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.dll
+C:\projects\C-Lab-Three-Interfaces\bin\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.pdb
+C:\projects\C-Lab-Three-Interfaces\obj\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.csproj.CoreCompileInputs.cache
+C:\projects\C-Lab-Three-Interfaces\obj\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.AssemblyInfoInputs.cache
+C:\projects\C-Lab-Three-Interfaces\obj\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.AssemblyInfo.cs
+C:\projects\C-Lab-Three-Interfaces\obj\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.dll
+C:\projects\C-Lab-Three-Interfaces\obj\Debug\netcoreapp2.0\C-Lab-Three-Interfaces.pdb
